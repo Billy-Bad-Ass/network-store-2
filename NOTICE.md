@@ -4,7 +4,7 @@
 
 Icons in `app/components/Icon.tsx` are from [Font Awesome Free](https://fontawesome.com)
 and are licensed **CC BY 4.0**. Attribution is displayed in the site footer, as the
-licence requires.
+license requires.
 
 Eleven glyphs are vendored as raw SVG paths rather than pulled from the npm package,
 to keep the storefront dependency-free. The full set is cloned to
@@ -24,7 +24,7 @@ rewritten, to the kebab-case identifier Claude Code expects; the content is upst
 
 Cloned into `vendor/` by `npm run agents:bootstrap` and not redistributed here:
 
-| Repository | Licence |
+| Repository | License |
 | --- | --- |
 | [obra/superpowers](https://github.com/obra/superpowers) | MIT |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | MIT |
@@ -38,4 +38,4 @@ Cloned into `vendor/` by `npm run agents:bootstrap` and not redistributed here:
 ## Product content
 
 The guides in `content/products/` are original work, © BBA Network, all rights
-reserved. They are not covered by any licence granted for the code in this repository.
+reserved. They are not covered by any license granted for the code in this repository.

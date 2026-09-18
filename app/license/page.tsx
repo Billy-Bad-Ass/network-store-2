@@ -2,14 +2,14 @@ import type { Metadata } from 'next';
 import { merchant } from '@/lib/catalog';
 
 export const metadata: Metadata = {
-  title: 'Licence & refunds',
+  title: 'License & refunds',
   description: 'What you may do with the files, and how refunds work on digital downloads.',
 };
 
-export default function LicencePage() {
+export default function LicensePage() {
   return (
     <div className="wrap prose">
-      <h1>Licence &amp; refunds</h1>
+      <h1>License &amp; refunds</h1>
 
       <h2>What you may do</h2>
       <ul>
