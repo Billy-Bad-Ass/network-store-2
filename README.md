@@ -131,7 +131,7 @@ for hosting, and [docs/DECISIONS.md](docs/DECISIONS.md) for why things are built
 | Miniature guide | **Recipe tables are missing** — see `docs/RUNBOOK.md` |
 | Logo | **Placeholder** — see `brand/README.md` |
 
-## Licence
+## License
 
 Product content in `content/` is © BBA Network, all rights reserved. The code is
 yours to do with as you like. Third-party attribution is in [NOTICE.md](NOTICE.md).

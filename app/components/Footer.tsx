@@ -31,7 +31,7 @@ export function Footer() {
             <h4>Store</h4>
             <ul>
               <li><Link href="/about">About</Link></li>
-              <li><Link href="/licence">Licence &amp; refunds</Link></li>
+              <li><Link href="/license">License &amp; refunds</Link></li>
               <li><a href={`mailto:${merchant.supportEmail}`}>{merchant.supportEmail}</a></li>
             </ul>
           </div>

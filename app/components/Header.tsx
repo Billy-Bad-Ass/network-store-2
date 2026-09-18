@@ -15,7 +15,7 @@ export function Header() {
         <nav className="site-nav" aria-label="Primary">
           <Link href="/#guides">Guides</Link>
           <Link href="/about">About</Link>
-          <Link href="/licence">Licence</Link>
+          <Link href="/license">License</Link>
         </nav>
       </div>
     </header>

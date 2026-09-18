@@ -33,7 +33,7 @@ same entry points the scheduled jobs use.
 | `pricing-analyst` | what to charge, and whether the bundle is working. |
 | `revenue-analyst` | the Stripe digest. Leads with problems, not the headline. |
 | `release-qa` | pre-deploy verification. Reports, never fixes. |
-| `support-responder` | download issues, expired links, refunds, licence questions. |
+| `support-responder` | download issues, expired links, refunds, license questions. |
 
 `.claude/agents/vendor/` holds ten role agents vendored from
 [agency-agents](https://github.com/msitarzewski/agency-agents) (MIT) by
